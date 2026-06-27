@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+venv/
+.venv/
+env/
+
+# Pytest / Playwright
+.pytest_cache/
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Environment
+.env
+
+# OS
+.DS_Store
