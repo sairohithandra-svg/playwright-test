@@ -13,4 +13,4 @@ def browser_context_args(browser_context_args):
 @pytest.fixture(scope="session")
 def base_url():
     """Base URL for the application under test."""
-    return "http://www.google.com"
+    return "http://example.com"
